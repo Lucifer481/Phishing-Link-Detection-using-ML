@@ -142,6 +142,4 @@ See the [LICENSE](LICENSE) file for details.
 - Add any demo screenshots or GIFs as needed in the repo and embed using:
 ```markdown
 ![Screenshot](path/to/screenshot.png)
-````
 
-Would you like me to add badges for deployment (e.g., Heroku, Docker) or add GIF previews and links to your browser extension?
